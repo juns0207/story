@@ -1,5 +1,7 @@
 ### sinnara2021/story
 ### 신나라샘의 챗봇 제작 스토리방
+![image](https://user-images.githubusercontent.com/79739569/132867663-aaf6bc81-20f2-4d10-9dcf-2e91aa6eceaa.png)
+
 
 ### 여러가지 응답 만들기
 '''
