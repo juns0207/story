@@ -5,9 +5,11 @@
    ### 챗봇삽입 default 페이지 만드는 경로
   _layouts/default.html
 ![image](https://user-images.githubusercontent.com/79739569/132869335-d9c5560a-0ad6-445f-ad58-91427fcf1372.png)
+<hr/>
 
    ### 챗봇삽입 소스코드
   챗봇 삽입 소스 코드는 default.html 페이지 열어보기!
+  <hr/>
 
   ### 여러가지 응답 만들기
   '''
@@ -155,7 +157,7 @@ Training phrases : 리치리스트
 
 
 '''
-
+<hr/>
 ### 마크다운 문법 알아보기
 
 https://www.dropbox.com/s/mzp9tq4qtfjdlif/20141021_markdown_use_tip.md?dl=0
