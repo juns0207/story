@@ -1,34 +1,34 @@
-### sinnara2021/story
-=============
-### 👩🏻 신나라샘의 챗봇 제작 스토리방
+  ### sinnara2021/story
+  =============
+  # 👩🏻 신나라샘의 챗봇 제작 스토리방
+  -------------
+  
 
+  ### 여러가지 응답 만들기
+  '''
+  Responses
+  
+  Custom Payload
+  
+  1. Description type :  
+  Intents 이름: richDes   
+  Training phrases : 리치설명
+  
 
-
-### 여러가지 응답 만들기
-'''
-Responses
-
-Custom Payload
-
-1. Description type :  
-Intents 이름: richDes   
-Training phrases : 리치설명
-
-
-{
-  "richContent": [
-    [
-      {
-        "title": "전등 리스트",
-        "type": "description",
-        "text": [
-          "안방전등",
-          "거실전등"
-        ]
-      }
+  {
+    "richContent": [
+     [
+       {
+         "title": "전등 리스트",
+         "type": "description",
+         "text": [
+           "안방전등",
+            "거실전등"
+          ]
+        }
+     ]
     ]
-  ]
-}
+  }
 
 2. Info type
 Intents 이름:  richInfo  
