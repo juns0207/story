@@ -1,6 +1,8 @@
   ### sinnara2021/story
   =============
   # 👩🏻 신나라샘의 챗봇 제작 스토리방
+  
+  https://user-images.githubusercontent.com/79739569/132930276-0eaae252-dcd3-40b2-bbb3-f4e614c4bc3e.jpg
   -------------
    ### 챗봇삽입 default 페이지 만드는 경로
   _layouts/default.html
